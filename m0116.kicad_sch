@@ -3074,10 +3074,6 @@
     (stroke (width 0) (type default))
     (uuid 0d13d908-a431-4cbc-8661-05b161f20c28)
   )
-  (wire (pts (xy 186.69 344.17) (xy 186.69 345.44))
-    (stroke (width 0) (type default))
-    (uuid 0d39deb7-ce75-4fd4-9184-71d6752abdae)
-  )
   (wire (pts (xy 193.04 309.88) (xy 195.58 309.88))
     (stroke (width 0) (type solid))
     (uuid 0dc307c5-9fda-41f1-9695-033a56c7d06e)
@@ -9957,32 +9953,6 @@
       (project "m0116"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
           (reference "D69") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-nec") (at 182.88 346.71 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 439ff77c-8970-4b34-ae1f-9d4d8932b61f)
-    (property "Reference" "SW_RGUI_3" (at 183.7182 341.0458 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Value" "mx-alps-nec" (at 183.7182 342.9254 0)
-      (effects (font (size 0.508 0.508)))
-    )
-    (property "Footprint" "Alps_Only:ALPS-1U" (at 167.005 347.345 0)
-      (effects (font (size 1.524 1.524)) hide)
-    )
-    (property "Datasheet" "" (at 167.005 347.345 0)
-      (effects (font (size 1.524 1.524)) hide)
-    )
-    (pin "1" (uuid 757e826c-3ac3-4148-ba69-990ffa1e1fd5))
-    (pin "2" (uuid 73ae62b6-ef80-4862-9857-9cef48eb7fd5))
-    (instances
-      (project "m0116"
-        (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RGUI_3") (unit 1)
         )
       )
     )
