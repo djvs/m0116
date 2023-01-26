@@ -5,6 +5,8 @@
 
 USB/QMK STM32F401RETx PCB for Apple M0116 and M0118 (Alps) with multiple layout options, WS2812B addressable LED & buzzer support.  
 
+## Released without warranty, use at your own risk.  HAS NOT BEEN TESTED OR PRINTED YET OR EVEN MEASURED THAT CAREFULLY.  THIS CONTROLLER SETUP IS EXPERIMENTAL.  Please confirm parts placement with JLC carefully.
+
 Bottom row supports:
 * AEK (1.5u 1.25u 1.5u 6.5u 1.5u 1.25u 1.5u)
 * M0116 (1u 1u 1.75u 1u 4.75u 1u 1u 1u 1u 1u)
@@ -15,7 +17,6 @@ Numpad supports:
 * Actual grid
 
 
-Released without warranty, use at your own risk.  HAS NOT BEEN TESTED OR PRINTED YET OR EVEN MEASURED THAT CAREFULLY.  Please confirm parts placement with JLC carefully.
 
 PRs & feedback welcome!
 
