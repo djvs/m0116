@@ -16,7 +16,7 @@ Numpad supports:
 * The normal "grid except for 0 and enter being 2u"
 * Actual grid
 
-
+(Even less supported) m0330 variant here: https://github.com/djvs/m0330
 
 PRs & feedback welcome!
 
