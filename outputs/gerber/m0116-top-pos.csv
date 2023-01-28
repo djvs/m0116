@@ -14,7 +14,8 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "SW_9_1","mx-alps-nec","ALPS-1U",184.770000,-48.665000,0.000000,top
 "SW_APOS_1","mx-alps-nec","ALPS-1U",237.157500,-86.765000,0.000000,top
 "SW_A_1","mx-alps-nec","ALPS-1U",46.657500,-86.765000,0.000000,top
-"SW_BACKSL_1","mx-alps-nec","ALPS-1U",270.495000,-67.715000,0.000000,top
+"SW_BACKSL_1","mx-alps-nec","ALPS-1U",270.495000,-67.715000,90.000000,top
+"SW_BACKSL_2","mx-alps-nec","ALPS-1U",270.750000,-67.715000,0.000000,top
 "SW_BS_1","mx-alps-nec","ALPS-1U",265.732500,-48.665000,0.000000,top
 "SW_B_1","mx-alps-nec","ALPS-1U",132.382500,-105.815000,0.000000,top
 "SW_CAPS_1","mx-alps-nec","ALPS-1U",13.320000,-124.865000,0.000000,top

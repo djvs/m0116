@@ -1,5 +1,5 @@
 Drill report for m0116.kicad_pcb
-Created on Sat 28 Jan 2023 02:06:51 AM EST
+Created on Sat 28 Jan 2023 10:10:49 AM EST
 
 Copper Layer Stackup:
     =============================================================
@@ -12,9 +12,9 @@ Drill file 'm0116-PTH.drl' contains
     =============================================================
     T1  0.400mm  0.0157"  (363 holes)
     T2  0.900mm  0.0354"  (12 holes)
-    T3  1.470mm  0.0579"  (218 holes)
+    T3  1.470mm  0.0579"  (220 holes)
 
-    Total plated holes count 593
+    Total plated holes count 595
 
 
 Drill file 'm0116-NPTH.drl' contains
