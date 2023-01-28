@@ -2,6 +2,7 @@
 
 ![Screenshot of PCB bottom](screenshot_bottom.png)
 ![Screenshot of PCB top](screenshot_top.png)
+![Layouts](layouts.png)
 
 USB/QMK STM32F401RETx PCB for Apple M0116 and M0118 (Alps) with multiple layout options, WS2812B addressable LED & buzzer support.  
 
