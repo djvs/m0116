@@ -62,6 +62,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "SW_LALT_1","mx-alps-nec","ALPS-1U",84.757500,-124.865000,0.000000,top
 "SW_LALT_2","mx-alps-nec","ALPS-1U",70.470000,-124.865000,0.000000,top
 "SW_LALT_3","mx-alps-nec","ALPS-1U",72.851250,-124.865000,180.000000,top
+"SW_LALT_4","mx-alps-nec","ALPS-1U",65.000000,-124.865000,180.000000,top
 "SW_LBRC_1","mx-alps-nec","ALPS-1U",232.395000,-67.715000,0.000000,top
 "SW_LCTRL_1","mx-alps-nec","ALPS-1U",18.082500,-124.865000,180.000000,top
 "SW_LCTRL_2","mx-alps-nec","ALPS-1U",32.370000,-124.865000,0.000000,top
@@ -101,6 +102,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "SW_SP2_2","mx-alps-nec","ALPS-1U",146.670000,-124.865000,180.000000,top
 "SW_SP2_3","mx-alps-nec","ALPS-1U",139.526250,-124.865000,0.000000,top
 "SW_SP2_4","mx-alps-nec","ALPS-1U",144.500000,-124.865000,180.000000,top
+"SW_SP2_5","mx-alps-nec","ALPS-1U",141.750000,-124.865000,0.000000,top
 "SW_SP3_1","mx-alps-nec","ALPS-1U",156.195000,-124.865000,0.000000,top
 "SW_S_1","mx-alps-nec","ALPS-1U",65.707500,-86.765000,0.000000,top
 "SW_TAB_1","mx-alps-nec","ALPS-1U",18.082500,-67.715000,0.000000,top
