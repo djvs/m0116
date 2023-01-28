@@ -15,7 +15,8 @@ Bottom row supports:
 and misc. quasi-AEK layouts (alpha block is smaller on this keyboard so sacrifices have to be made):
 * Quasi-AEK 1 (1.5u 1.25u 1.5u 6.5u 1.25u 1.25u 1.25u) - needs AEK 6.5U spacebar, plus two extra 1.25U keys for the right side)
 * Quasi-AEK 2 (1.5u 1.25u 1.5u 6.25u 1.5u 1u 1u) - needs AT101W or other 6.25U spacebar, plus two extra 1U keys for the right side)
-* Quasi-AEK 3 (1.5u 1u 1.5u 6.5u 1u 1u 1u 1u) - You're on your own here
+* Quasi-AEK 3 (1.5u 1u 1.5u 6.5u 1u 1u 1u 1u) - AEK spacebar, 5 extra 1Us) 
+* Quasi-AEK 4 (1.5u 1u 1.5u 6.5u 1.5u 1u 1.5u) - AEK spacebar, 2 extra 1Us)
 
 and probably more, considering how many switch placements are possible.
 
