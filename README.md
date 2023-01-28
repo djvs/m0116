@@ -11,7 +11,8 @@ USB/QMK STM32F401RETx PCB for Apple M0116 and M0118 (Alps) with multiple layout 
 Bottom row supports:
 * M0116 (1u 1u 1.75u 1u 4.75u 1u 1u 1u 1u 1u)
 * M0118 (1.25u 1.5u 1.75u 5.25u 1.75u 1u 1u 1u)
-* Custom split M0116 (1u 1u 1.75u 1u 1u 1.75u 1u 1u 1u 1u 1u 1u 1u)
+* Custom split M0116 #1 (1u 1u 1.75u 1u 1u 2.75u 1u 1u 1u 1u 1u 1u 1u)
+* Custom split M0116 #2 (1u 1u 1.75u 1u 1.75u 1.75u 1.25u 1u 1u 1u 1u 1u 1u)
 
 and misc. quasi-AEK layouts (alpha block is smaller on this keyboard so sacrifices have to be made):
 * Quasi-AEK 1 (1.5u 1.25u 1.5u 6.5u 1.25u 1.25u 1.25u) - needs AEK 6.5U spacebar, plus two extra 1.25U keys for the right side)
