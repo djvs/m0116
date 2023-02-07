@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cp m0116-bottom-pos.csv jlcpcb_cpl-bottom.csv
-cp m0116-top-pos.csv jlcpcb_cpl-top.csv
+cp m0116-bottom-pos.csv jlcpcb_cpl_bottom.csv
+cp m0116-top-pos.csv jlcpcb_cpl_top.csv
 
 perl -pi -e "s/Ref,Val,Package,PosX,PosY,Rot,Side/Designator,Mid X,Mid Y,Rotation,Layer/" jlcpcb_cpl*.csv
 perl -pi -e 's/","[^"]*","[^"]*"/"/' jlcpcb_cpl*.csv
