@@ -14,7 +14,8 @@ sed -i '/^$/d' jlcpcb-bom.editing.csv
 
 awk -i inplace -F';' '{print $5,$3,$2}' OFS=',' jlcpcb-bom.editing.csv
 
-perl -pi -e 's/^("USBLC6-2SC6.*)/$1,"C7519"/' jlcpcb-bom.editing.csv
+perl -pi -e 's/^("USBLC6-2SC6.*)/$1,"C15999"/' jlcpcb-bom.editing.csv # this one is SOT-666-6 
+#perl -pi -e 's/^("USBLC6-2SC6.*)/$1,"C7519"/' jlcpcb-bom.editing.csv # this one is SOT-23-6
 perl -pi -e 's/^("Q_NMOS_GSD 2N7002.*)/$1,"C8545"/' jlcpcb-bom.editing.csv
 perl -pi -e 's/^("Q_PMOS_GSD AO3401A.*)/$1,"C700954"/' jlcpcb-bom.editing.csv
 perl -pi -e 's/^("Ferrite_Bead.*)/$1,"C1015"/' jlcpcb-bom.editing.csv
