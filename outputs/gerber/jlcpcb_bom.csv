@@ -1,6 +1,7 @@
 Comment,Footprint,Designator,JLCPCB Part #（optional )
+"Conn_01x06","PinHeader_1x06_P1.27mm_Vertical","J1"
 "Conn_01x04","PinHeader_1x04_P1.27mm_Vertical","J4","C160404"
-"Conn_01x05","PinHeader_1x05_P1.27mm_Vertical","J1,J7"
+"Conn_01x05","PinHeader_1x05_P1.27mm_Vertical","J7"
 "1uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","C8,C3,C20,C2","C28323"
 "100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","C10,C14,C19,C12,C11,C13"
 "Ferrite_Bead","L_0805_2012Metric_Pad1.15x1.40mm_HandSolder","FB1","C1015"
